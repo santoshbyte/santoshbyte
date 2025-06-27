@@ -1,38 +1,38 @@
-<h1 align="center">Hi, I'm Santosh 👋</h1>
+<h1 align="center">Hi, I'm Santosh </h1>
 
 <p align="center">
-  🎓 MCA Student | 🛠️ Building Smart Solutions | 🇮🇳 India
+  🎓 MCA Student | Building Smart Solutions | 🇮🇳 India
 </p>
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 👨‍⚕️ Working on: **AI Voice Assistant for Doctors** (Hackathon Project)
-- 🧠 Learning: Java, Python, Flask, React, AI Tools
-- 🎯 Mission: Turning real-world problems into scalable solutions
-- 💡 Passionate About: AI, Web Dev, Open Source, and HealthTech
+-  Working on: **AI Voice Assistant for Doctors** (Hackathon Project)
+-  Learning: Java, Python, Flask, React, AI Tools
+-  Mission: Turning real-world problems into scalable solutions
+-  Passionate About: AI, Web Dev, Open Source, and HealthTech
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 💻 Programming
+###  Programming
 `Python` `Java` `JavaScript` `C` `C++` `SQL`
 
-### 🌐 Web Development
+###  Web Development
 `HTML` `CSS` `React` `Bootstrap` `Flask` `Java Servlets`
 
-### 🗃️ Databases
+###  Databases
 `MySQL` `OracleDB`
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 `Git` `GitHub` `VS Code` `Eclipse` `Postman`
 
-### 📚 Core Concepts
+###  Core Concepts
 `Data Structures` `OOP` `Software Engineering` `DBMS` `Computer Architecture`
 
-### 🧠 Currently Learning
+###  Currently Learning
 `Multithreading` `AWT` `Regex` `AI APIs`
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santoshbyte&show_icons=true&theme=tokyonight" alt="Santosh's GitHub stats" />
